@@ -19,6 +19,7 @@ public class StringTest {
 		System.out.println(str2.equals(str3));
 		System.out.println(str2==str3);
 		
-		
+		System.out.println(str2.equals(str));
+		System.out.println(str2==str);
 	}
 }
